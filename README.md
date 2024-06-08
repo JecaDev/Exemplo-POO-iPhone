@@ -1,11 +1,11 @@
 # Exemplo-POO-iPhone
 
 <p align="center"> 
-<a href="#📝 Sobre"> Sobre |</a>
-<a href="#📑 UML (Diagrama de Classes)"> UML (Diagrama de Classes) |</a>
-<a href="#⚙ Tecnologias"> Tecnologias |</a>
-<a href="#✒ Autor"> Autor |</a>
-<a href="#💻 Pré-requisitos"> Pré-requisitos </a>
+<a href="# 📝 Sobre"> Sobre |</a>
+<a href="# 📑 UML (Diagrama de Classes)"> UML (Diagrama de Classes) |</a>
+<a href="# ⚙ Tecnologias"> Tecnologias |</a>
+<a href="# ✒ Autor"> Autor |</a>
+<a href="# 💻 Pré-requisitos"> Pré-requisitos </a>
 <br> 
 <br> 
 </p>
