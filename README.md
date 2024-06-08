@@ -1,4 +1,4 @@
-# Exemplo-POO-iPhone
+# Exemplo de Programação Orientada a Objetos iPhone
 
 <p align="center"> 
 <a href="# 📝 Sobre"> Sobre |</a>
